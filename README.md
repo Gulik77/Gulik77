@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Milana!
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira%20Sans&size=28&center=true&width=820&height=70&duration=3000&color=%23B800FF&lines=Milana+Dobroriez+%7C+IT+Student;Aspiring+Software+Engineer;C%2C+C%2B%2B%2C+HTML%2C+CSS) 
+
 <div align="center">
 
 ### 🎓 First-Year Information Technology Student | Aspiring Developer
