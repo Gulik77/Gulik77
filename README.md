@@ -57,18 +57,6 @@ I'm working on building my portfolio with exciting projects. Stay tuned!
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 💡 Current Focus
 
 - 📖 Studying computer science fundamentals
